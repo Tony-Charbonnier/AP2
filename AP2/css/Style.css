@@ -1,0 +1,143 @@
+body{
+
+  background: url("../img/image1.jpg");
+  background-size: 100%;
+}
+
+h1
+{
+text-align: center;
+  font-size: 100px;
+}
+
+a.P1{
+	font-size: 200px;
+	text-decoration: none;
+	color: black;
+}
+a.P1:hover{
+	color: red;
+}
+
+
+div.P1
+{
+    width: 350px; 
+	height: 100%; 
+    margin: auto; 
+    display: inline-block;
+
+
+
+}
+a.M1{
+	font-size: 200px;
+	text-decoration: none;
+	color: black;
+}
+a.M1:hover{
+	color: red;
+}
+
+
+div.M1
+{
+    width: 550px; 
+	height: 100%; 
+    margin-left:80px; 
+    display: inline-block;
+
+  
+}
+
+a.C1{
+	font-size: 200px;
+	text-decoration: none;
+	color: black;
+}
+a.C1:hover{
+	color: red;
+}
+
+
+div.C1
+{
+    width: 1050px;
+	height: 100%; 
+    margin: auto; 
+
+  
+}
+
+div.A{
+width: 1000px; 
+height: 100%; 
+margin: auto; 
+}
+
+
+a.A1{
+	font-size: 50px;
+	text-decoration: none;
+	color: purple;
+}
+a.A1:hover{
+	color: white;
+}
+
+div.P2{
+width: 1000px; 
+height: 100%; 
+margin: auto; 
+font-size: 50px;
+background-color: grey;
+color:white;
+}
+
+a.P2{
+	font-size: 50px;
+	text-decoration: none;
+	color: white;
+}
+div.P21{
+width: 350px; 
+height: 100%;
+display: inline-block;
+font-size: 50px;
+}
+
+div.P2a{
+	display: inline-block;
+}
+
+
+div.P5{
+color: grey;
+font-size: 20px;
+
+}
+
+div.d2{
+     width: 750px; 
+  height: 120px; 
+    margin: auto; 
+    background-color: grey;
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+
+div.ba{
+	display: inline-block;
+	font-size: 50px;
+
+}
+
+input.b1{
+  width: 40px;
+  height: 40px;
+}
+input.b2{
+  width: 80px;
+  height: 40px;
+}
